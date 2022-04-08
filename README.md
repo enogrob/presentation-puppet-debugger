@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Presentation project
+# Presentation Puppet Debugger
 
 ![course image](images/presentation.png)
 

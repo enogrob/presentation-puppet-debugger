@@ -19,6 +19,7 @@ It is to introduce a [Pupper Debugger](https://docs.puppet-debugger.com), a comm
 Objective
 Puppet
 Puppet Language Basics
+Puppet Debugger
 Puppet Debugger Commands
 Puppet Extensions
 References

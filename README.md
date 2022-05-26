@@ -22,5 +22,6 @@ Puppet Language Basics
 Puppet Debugger
 Puppet Debugger Commands
 Puppet Extensions
+Ruby Extensions
 References
 ```

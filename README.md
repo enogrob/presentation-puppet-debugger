@@ -665,5 +665,5 @@ Full license text available at: https://gitlab.com/puppet-debugger/puppet-debugg
 * [Installation Guide Gist](https://gist.github.com/enogrob/e7d8482b3a3d9a497c2a42ef950cc3e2) - Community-contributed installation guide for Ubuntu systems
 * [Puppet Language Documentation](https://puppet.com/docs/puppet/latest/lang_summary.html) - Essential reference for understanding Puppet syntax and constructs that can be tested in the debugger
 * [Puppet Debugger Presentation PDF](docs/presentation-puppet-debugger.pdf) - Comprehensive presentation slides covering Puppet Debugger features, usage examples, and best practices
-* [Daitan University Learning Session PDF](docs/Puppet%20Debugger%20Presentation_d15f6479049243bd9a9b7e213fd0c66f-260522-1417-234.pdf) - Educational presentation material from Daitan University learning session on Puppet Debugger
+* [Puppet Debugger Learning Session PDF](docs/Puppet%20Debugger%20Presentation_d15f6479049243bd9a9b7e213fd0c66f-260522-1417-234.pdf) - Learning session on Puppet Debugger
 

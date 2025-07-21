@@ -26,6 +26,16 @@ The Puppet Debugger serves as an essential development tool for Puppet practitio
 
 This tool is particularly valuable for DevOps engineers, system administrators, and Puppet developers who need to understand complex Puppet logic, debug classification issues, test custom functions, or explore the behavior of existing Puppet modules. The debugger supports remote node inspection, facts exploration, and provides extensive plugin architecture for extensibility.
 
+<br/>
+
+<div align="center">
+  <a href="https://d2252m2veb6802.cloudfront.net" target="_blank">
+    <img src="images/puppet-debugger-homepage.png" alt="Puppet Debugger">
+  </a>
+</div>
+
+<br/>
+
 ### Architecture
 
 ```mermaid

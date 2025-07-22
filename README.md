@@ -29,7 +29,7 @@ This tool is particularly valuable for DevOps engineers, system administrators, 
 <br/>
 
 <div align="center">
-  <a href="https://d2252m2veb6802.cloudfront.net" target="_blank">
+  <a href="docs/Puppet Debugger Presentation_d15f6479049243bd9a9b7e213fd0c66f-260522-1417-234.pdf" target="_blank">
     <img src="images/puppet-debugger-homepage.png" alt="Puppet Debugger">
   </a>
 </div>
